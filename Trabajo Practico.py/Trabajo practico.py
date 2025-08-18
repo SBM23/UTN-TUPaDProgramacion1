@@ -16,9 +16,9 @@ print (f"Hola {nombre}, buenos dias")
 # #el programa debe imprimir “Soy Marcos Pérez, tengo 30  años y vivo en Argentina”. Consejo: esto será más
 #  sencillo si utilizas print(f…) para realizar la impresión por pantalla.
 
-nombre = input ("Ingrese su nombre y apellido");
-edad = int (input ("Ingrese su edad"));
-residencia = input ("De donde eres");
+nombre = input ("Ingrese su nombre y apellido")
+edad = int (input ("Ingrese su edad"))
+residencia = input ("De donde eres")
 
 print (f"Hola, soy Susa {nombre} tengo {edad} años y soy de {residencia}")
 
@@ -29,9 +29,9 @@ import math
 
 # Utilizare float para convertir el número entero a decimal.
 
-radio= (float (input("Ingrese el valor: ")));
+radio= (float (input("Ingrese el valor: ")))
 
-print (f"El diametro es {math.pi*radio**2:.2f}, el perimetro es {math.pi*radio*2:.2f}");
+print (f"El diametro es {math.pi*radio**2:.2f}, el perimetro es {math.pi*radio*2:.2f}")
 
 #5) Crear un programa que pida al usuario una cantidad de segundos e imprima por pantalla a cuántas horas equivale.
 
