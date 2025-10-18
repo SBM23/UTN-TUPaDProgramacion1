@@ -1,0 +1,4 @@
+Zapato,150.0,20
+Campera,50.0,10
+Camisa,50.0,20
+Remera,5.0,5
